@@ -1,5 +1,8 @@
+####  https://aprendendo-computacao-com-python.readthedocs.io/en/latest/capitulo_03.html  #####
+
 input() #entrada de valores
 raw_input() #entrada de valores
 len() #descobrir o tamanho de um string
 str(), int(), float() #funções para converter valores exemplo int(input())
 type() #função para descobri o tipo da variavel
+id() #função retorna o endereço do objeto na memoria
