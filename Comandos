@@ -2,3 +2,4 @@ input() #entrada de valores
 raw_input() #entrada de valores
 len() #descobrir o tamanho de um string
 str(), int(), float() #funções para converter valores exemplo int(input())
+type() #função para descobri o tipo da variavel
