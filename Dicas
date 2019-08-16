@@ -1,0 +1,7 @@
+###concatenação##
+a = "concatenando "
+b = " string"
+a + b
+concatenando string
+a*3
+concatenando concatenando concatenando
