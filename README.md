@@ -1,2 +1,0 @@
-# Pythonicos
-Curso de Python
