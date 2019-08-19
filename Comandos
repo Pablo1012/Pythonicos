@@ -6,6 +6,8 @@ len() #descobrir o tamanho de um string
 str(), int(), float() #funções para converter valores exemplo int(input())
 type() #função para descobri o tipo da variavel
 id() #função retorna o endereço do objeto na memoria
+if, elif, else, break # estrutura condicional
+while, break, continue # laço de repetição
 
 # cria função não pré estabelecida
     def nome_funcao():
