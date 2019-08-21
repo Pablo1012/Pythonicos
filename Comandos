@@ -8,7 +8,7 @@ type() #função para descobri o tipo da variavel
 id() #função retorna o endereço do objeto na memoria
 if, elif, else, break # estrutura condicional
 while, break, continue # laço de repetição
-
+for x in range(5.-1.-1):
 # cria função não pré estabelecida
     def nome_funcao():
       comandos          
